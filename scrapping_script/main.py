@@ -30,7 +30,7 @@ try:
         
         print(f"({i}/{link_len}) {link} SUCCESS")
     get_links[['article_title', 'article_text']] = data 
-    get_links.to_csv("../data/articles_raw.csv", index=False)
+    get_links.to_csv("data/articles_raw.csv", index=False)
 except requests.exceptions.RequestException as e:
     print(e)
 
