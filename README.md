@@ -1,4 +1,5 @@
 # Sentiment Analysis for News Articles
+This project provides a comprehensive sentiment analysis of news articles concerning Lion Air. The primary goal is to evaluate public perception and media portrayal of the airline by systematically collecting and processing a dataset of news reports. Using NaturalLanguage Processing (NLP) techniques, this analysis automatically classifies articles as positive, negative, or neutral, offering insights into the prevailing opinions and tracking sentiment trends related to the airline's operations, incidents, and public relations.
 <br><img src="image/image.jpg" width="1024" height="512"><br>
 ## 🗒️ Paper Information
 Title | Author | Date
