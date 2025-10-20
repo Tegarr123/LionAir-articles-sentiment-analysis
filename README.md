@@ -1,4 +1,4 @@
-<br><img src="image/image.jpg" width="1280"><br>
+<br><img src="image/image.jpg" width="1280" height="512"><br>
 ## Paper Information
 Title | Author | Date
 ---|---|---
