@@ -1,3 +1,4 @@
+<br><img src="image/image.png" width="1280" style="background-color: #f0f0f0;"><br>
 ## Paper Information
 Title | Author | Date
 ---|---|---
