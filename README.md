@@ -1,9 +1,9 @@
-# Sentiment Analysis for News Articles : Case Study of Lion Air
+# Sentiment Analysis for News Articles
 <br><img src="image/image.jpg" width="1024" height="512"><br>
 ## 🗒️ Paper Information
 Title | Author | Date
 ---|---|---
-??? | Ahmad Fadhino Tegar Permana, Nur Ghulam Musthafa Al Kautsar, Dafa Fawwaz Alfarisi | ??/??/????
+Analisis Sentimen untuk Artikel Berita : Studi Kasus Lion Air | Ahmad Fadhino Tegar Permana, Nur Ghulam Musthafa Al Kautsar, Dafa Fawwaz Alfarisi | ??/??/????
 
 ## 📂 Project Structure
 ```bash
