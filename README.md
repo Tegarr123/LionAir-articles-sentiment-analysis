@@ -1,4 +1,6 @@
-<br><img src="image/image.png" width="1280" style="background-color: #f0f0f0;"><br>
+<body style="image/image.png'); background-color: #f0f0f0;">
+    <!-- Your content here -->
+</body>
 ## Paper Information
 Title | Author | Date
 ---|---|---
