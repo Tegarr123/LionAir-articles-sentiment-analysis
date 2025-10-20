@@ -22,6 +22,14 @@ sentiment-analysis-Lion-Air/
 ```
 
 ## 🎯 Research Objective
+The primary aim of this research is to comprehensively analyze the sentiment and thematic content of online news articles related to Lion Air.
+<br>
+To achieve this, the following specific objectives have been established:
+- **To analyze and quantify public sentiment** towards Lion Air as reflected in online news articles, classifying each article as positive, negative, or neutral using the TextBlob library.
+- **To compile a diverse dataset** by systematically scraping over 150 news articles concerning Lion Air from various online media sources.
+- **To perform Exploratory Data Analysis (EDA),** generating visualizations to provide a clear understanding of sentiment distribution, key topics, and temporal trends.
+- **To identify and group underlying themes** within the news corpus by applying unsupervised clustering algorithms, specifically DBSCAN, K-Means, and Agglomerative Clustering, using both Bag-of-Words (BoW) and TF-IDF feature extraction methods.
+- **To conduct a detailed linguistic analysis** of the articles, employing Part-of-Speech (POS) tagging and Named Entity Recognition (NER) to extract key entities (such as people, organizations, and locations) and understand the grammatical context driving the sentiment.
 
 ## 📊 Dataset Features
 
