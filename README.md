@@ -32,7 +32,22 @@ To achieve this, the following specific objectives have been established:
 - **To conduct a detailed linguistic analysis** of the articles, employing Part-of-Speech (POS) tagging and Named Entity Recognition (NER) to extract key entities (such as people, organizations, and locations) and understand the grammatical context driving the sentiment.
 
 ## 📊 Dataset Features
-
+- ```Kategori```: Category of Article Scraped
+- ```Link```: Link of the Article
+- ```article_title```: The title of news article
+- ```article_text```: The content of the article
+- ```domain```: the domain / channel of the article
+- ```cleaned_article_text```: preprocessed article content 
+- ```polarity```: polarity of the article
+- ```subjectivity```: subjectivity score of the article
+- ```tokens```: tokenized word after removing Urls, mentions, numbers, and punctuation
+- ```tokens_no_stop```: tokenized word after stopwords removal using ```stopwords.words('indonesian')```
+- ```tokens_final```: tokenized word after stopwords removal using custom stopwords
+- ```tokens_stemmed```: tokenized word after stemming using ```StemmerFactory``` from ```PySastrawi```
+- ```text_final```: merged/joined tokens into text
+- ```sentiment_label```: sentiment labeling based on polarity score
+- ```pos_tags```: tagged tokens based on Part-of-Speech
+- ```ner_tags```: tagged tokens based Named Entity
 ## 🪜 Methodology
 
 ## 💡 Key Insights
