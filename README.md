@@ -52,5 +52,14 @@ To achieve this, the following specific objectives have been established:
 <br><img src="image/metodologi.png" width="1024" height="512"><br>
 
 ## 💡 Key Insights
+- The **K-Means model** achieved a slightly higher **Silhouette** and **Calinski-Harabasz** score, suggesting a marginally better-defined cluster structure compared to Agglomerative clustering.
+- However, the **Agglomerative model’s lower Davies-Bouldin score (1.079)** indicates that its clusters are more compact and better separated.
+- Overall, both models reflect that **the dataset has limited natural separability**, implying that sentiment distinctions within the articles are subtle and may benefit from more refined preprocessing, feature engineering, or semi-supervised methods.
 
 ## ✅ Conclusion
+The analysis indicates that while basic text vectorization and clustering can capture certain grouping tendencies, **sentiment patterns in real-world news data are nuanced and context-dependent**.
+Future improvements could include:
+- Incorporating pretrained embeddings (e.g., Word2Vec, FastText, or BERT) for richer semantic understanding.
+- Applying dimensionality reduction (e.g., PCA or t-SNE) to visualize and interpret cluster structure.
+- Introducing semi-supervised or supervised sentiment classification to validate and refine cluster meaning.
+- Expanding the dataset with more diverse and time-spanning articles for stronger generalization
