@@ -49,6 +49,7 @@ To achieve this, the following specific objectives have been established:
 - ```pos_tags```: tagged tokens based on Part-of-Speech
 - ```ner_tags```: tagged tokens based Named Entity
 ## 🪜 Methodology
+<br><img src="image/metodologi.png" width="1024" height="512"><br>
 
 ## 💡 Key Insights
 
